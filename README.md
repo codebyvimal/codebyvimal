@@ -1,5 +1,12 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=35CE8D&width=750&lines=I'm+Vimal+Prasath;a+19+year+old+Computer+science+and+Engineering+student.;Just+getting+started+with+coding+—;Figuring+out+how+to+turn+ideas+into+simple,+working+code.)](https://git.io/typing-svg)
+I'm a 19 year old Computer science and Engineering student. 
+Just getting started with coding — Figuring out how to turn ideas into simple, working code.
+### 📚 Current Learning Goals
+
+| Course | Progress | Status |
+| :--- | :--- | :--- |
+| **CS50: Intro to CS** | ![Progress](https://geps.dev/progress/50?dangerColor=555&warningColor=555&successColor=d90429) | 🏃‍♂️ **Week 5** |
+| **100 Days of Code** | ![Progress](https://geps.dev/progress/0?dangerColor=555&warningColor=555&successColor=35CE8D) | 🔥 **Day 0** |
 
 ### Find me on
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vimal-prasath-m)  [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vimworks.ai@gmail.com)
