@@ -6,5 +6,5 @@ I’m currently learning Python through CS50p
 
 Linkedin: https://www.linkedin.com/in/vimal-prasath-m
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,ubuntu,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,vscode,ubuntu,notion)](https://skillicons.dev)
 
