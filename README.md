@@ -5,8 +5,8 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 
 | Course | Progress | Status |
 | :--- | :--- | :--- |
-| **CS50: Intro to CS** | ![Progress](https://geps.dev/progress/50?dangerColor=555&warningColor=555&successColor=d90429) | 🏃‍♂️ **Week 5** |
-| **100 Days of Code** | ![Progress](https://geps.dev/progress/0?dangerColor=555&warningColor=555&successColor=35CE8D) | 🔥 **Day 0** |
+| **CS50: Python** | ![Progress](https://geps.dev/progress/50?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | 🏃‍♂️ **Week 5** |
+| **100 Days of Code** | ![Progress](https://geps.dev/progress/0?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | 🔥 **Day 0** |
 
 ### Find me on
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vimal-prasath-m)  [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vimworks.ai@gmail.com)
