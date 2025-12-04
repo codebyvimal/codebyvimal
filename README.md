@@ -10,16 +10,16 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 
 ### Find me on
 <!-- Reddit -->
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/code_by_vimal/)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="40" height="40" />](https://www.reddit.com/user/code_by_vimal/)
 
 <!-- Discord -->
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=unknown0077799)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40" />](https://discord.com/users/784644424901591040)
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimal-prasath-m/)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" />](https://www.linkedin.com/in/vimal-prasath-m/)
 
 <!-- Email -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimworks.ai@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" />](mailto:vimworks.ai@gmail.com)
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/vimal-prasath-m) [![Email](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](mailto:vimworks.ai@gmail.com) 
 
