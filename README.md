@@ -9,12 +9,11 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 | **100 Days of Code** | ![Progress](https://geps.dev/progress/0?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | 🔥 **Day 0** |
 
 ### Find me on
-<!-- Social Icons Row -->
 <p align="left">
 
-  <!-- Reddit (Custom fixed icon) -->
+  <!-- Reddit - custom skillicon-style -->
   <a href="https://www.reddit.com/user/code_by_vimal/">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/reddit.svg" width="48" />
+    <img src="https://github.com/athul/skill-icons/raw/main/icons/Reddit-Dark.svg" width="48" />
   </a>
 
   <!-- Discord -->
