@@ -11,28 +11,23 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 ### Find me on
 <p align="left">
 
-  <!-- Reddit - custom skillicon-style -->
   <a href="https://www.reddit.com/user/code_by_vimal/">
-    <img src="https://github.com/athul/skill-icons/raw/main/icons/Reddit-Dark.svg" width="48" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=reddit" width="48" />
+  </a>&nbsp;&nbsp;
 
-  <!-- Discord -->
   <a href="https://discord.com/users/784644424901591040">
     <img src="https://skillicons.dev/icons?i=discord" width="48" />
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/vimal-prasath-m/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <!-- Gmail -->
   <a href="mailto:vimworks.ai@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
 
 </p>
-
 
 ### Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,git,github,vscode,ubuntu,notion)](https://skillicons.dev)
