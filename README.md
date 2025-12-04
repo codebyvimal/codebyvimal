@@ -13,7 +13,7 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/code_by_vimal/">
-    <img src="[[https://upload.wikimedia.org/wikipedia/commons/5/58/Reddit_logo_new.svg]](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reddit.svg)" width="48" height="48" />
+    <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/reddit.svg" width="48" height="48" />
   </a>&nbsp;
 
   <a href="https://discord.com/users/784644424901591040">
