@@ -12,9 +12,9 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 <!-- Social Icons Row -->
 <p align="left">
 
-  <!-- Reddit -->
+  <!-- Reddit (Custom fixed icon) -->
   <a href="https://www.reddit.com/user/code_by_vimal/">
-    <img src="https://skillicons.dev/icons?i=reddit" width="48" />
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/reddit.svg" width="48" />
   </a>
 
   <!-- Discord -->
