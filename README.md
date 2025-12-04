@@ -11,9 +11,10 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 ### Find me on
 <p align="left">
 
+  <!-- Reddit -->
   <a href="https://www.reddit.com/user/code_by_vimal/">
-    <img src="https://skillicons.dev/icons?i=reddit" width="48" />
-  </a>&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Reddit_logo_new.svg" width="48" height="48" />
+  </a>&nbsp;
 
   <a href="https://discord.com/users/784644424901591040">
     <img src="https://skillicons.dev/icons?i=discord" width="48" />
