@@ -8,7 +8,7 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 | **CS50: Python** | ![Progress](https://geps.dev/progress/50?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | 🏃‍♂️ **Week 5** |
 | **100 Days of Code** | ![Progress](https://geps.dev/progress/0?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | 🔥 **Day 0** |
 
-[![GitHub Streak](https://streak-stats.demolab.com/codebyvimalDenverCoder1)](https://git.io/streak-stats)
+<img src="https://d3frb2mbny706b.cloudfront.net/<your-username-here>" width="600">
 
 ### Find me on
 <p align="left">
