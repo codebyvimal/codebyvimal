@@ -11,7 +11,7 @@ I'm a 19 year old Computer science and Engineering student | Aspiring ML Enginee
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codebyvimal&theme=dark)
 
 ### Skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,bash)](https://skillicons.dev)
 
 
 
