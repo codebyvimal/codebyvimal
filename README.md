@@ -7,6 +7,8 @@ Just getting started with coding — Figuring out how to turn ideas into simple,
 | :--- | :--- | :--- |
 | **CS50: Python** | ![Progress](https://geps.dev/progress/50?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | 🏃‍♂️ **Week 5** |
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebyvimal&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ### Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,git,github)](https://skillicons.dev)
 
