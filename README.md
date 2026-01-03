@@ -7,9 +7,6 @@
    <em>Turning ideas into simple, working code. Currently focused on bridging the gap between theory and applied ML.</em>
 </p>
 
-## Hi there 👋
-I'm a 19 year old Computer science and Engineering student | Aspiring ML Engineer 
-| Just getting started with coding — Figuring out how to turn ideas into simple, working code.
 ### 📚 Current Learning Goals
 
 | Course | Progress | Status |
@@ -18,6 +15,7 @@ I'm a 19 year old Computer science and Engineering student | Aspiring ML Enginee
 
 ## GitHub Stats 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codebyvimal&theme=dark)
+
 
 ### Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,git,github,bash)](https://skillicons.dev)
