@@ -1,3 +1,12 @@
+<h1 align="center">Hi, I'm Vimal Prasath 👋</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=Aspiring+ML+Engineer;CS+%26+Engineering+Student;Building+with+Python" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+   <em>Turning ideas into simple, working code. Currently focused on bridging the gap between theory and applied ML.</em>
+</p>
+
 ## Hi there 👋
 I'm a 19 year old Computer science and Engineering student | Aspiring ML Engineer 
 | Just getting started with coding — Figuring out how to turn ideas into simple, working code.
