@@ -14,7 +14,7 @@
 | **CS50: Python** | ![Progress](https://geps.dev/progress/50?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | 🏃‍♂️ **Week 5** |
 
 ## GitHub Stats 
-![GitHub Streak](https://streak-stats.demolab.com/?user=codebyvimal&theme=dark)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codebyvimal&theme=dark" alt="GitHub Streak" /></a>
 
 
 ### Skills and Tools
