@@ -55,15 +55,13 @@ skills = {
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyvimal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyvimal&theme=tokyonight&hide_border=true&v=1" width="48%" />
+</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codebyvimal&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=codebyvimal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyvimal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyvimal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" />
 </p>
 
 ---
