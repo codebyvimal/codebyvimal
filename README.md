@@ -56,7 +56,7 @@ skills = {
 
 ## 📈 GitHub Stats
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codebyvimal&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats-codebyvimals-projects.vercel.app/?user=codebyvimal&theme=github-dark-blue&hide_border=true" alt="Vimal's Streak" />
 </p>
 
 ---
