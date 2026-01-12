@@ -1,37 +1,83 @@
-![Banner](Vimal%20Prasath(1).png)
+# Hi there, I'm Vimal Prasath 👋
 
-<div align="center">
+## 🚀 Aspiring ML Engineer | Learning in Public
 
-I ideas into simple, working code. Currently focused on bridging the gap between theory and applied ML
+I'm passionate about machine learning and artificial intelligence, documenting my journey as I build, learn, and grow. I believe in learning publicly and sharing knowledge with the community through daily posts and updates.
 
 ---
 
-### 🎯 Current Learning Goals
+## 🎯 Current Learning Journey
 
 | Course | Progress | Status |
-|--------|----------|--------|
-| **CS50: Python** | ![60%](https://progress-bar.dev/60) | Week 6 |
-| **6-month ML** | ![11%](https://progress-bar.dev/11) | Month 1 |
+| :--- | :--- | :--- |
+| **CS50: Python** | ![Progress](https://geps.dev/progress/60?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | **Week 6** |
+| **6 month ML** | ![Progress](https://geps.dev/progress/11?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | **Month 1** |
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🔗 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codebyvimal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codebyvimal/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/codebyvimal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codebyvimal.py/)
+```python
+skills = {
+    "languages": ["Python"],
+    "tools": ["Git", "GitHub"],
+    "focus": ["Machine Learning", "Data Science"],
+    "learning_style": "Public & Consistent"
+}
+```
 
 ---
 
-*"Learning in public, one commit at a time"*
+## 📊 Featured Project
 
-</div>
+**Coming Soon...**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://x.com/codebyvimal" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+<a href="https://www.linkedin.com/in/codebyvimal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/codebyvimal.py/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.kaggle.com/code/komalbatoolai/restaurant-tips-analysis" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
+
+---
+
+## 💡 What I'm Up To
+
+- 🔭 Currently working through **CS50 Python** and a **6-month ML roadmap**
+- 🌱 Learning machine learning fundamentals and best practices
+- 📝 Posting daily updates about my learning journey
+- 💬 Open to collaboration on ML projects and learning together
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codebyvimal&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=codebyvimal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyvimal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🎓 Philosophy
+
+> "Learning in public isn't just about sharing what you know—it's about documenting the journey, embracing mistakes, and building a community that grows together."
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=codebyvimal&color=2ea44f&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+Stay Hungry, Stay Foolish
+</p>
