@@ -36,12 +36,14 @@ skills = {
 
 ## 📫 Connect With Me
 
+
 <p align="left">
 <a href="https://x.com/codebyvimal" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 <a href="https://www.linkedin.com/in/codebyvimal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/codebyvimal.py/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.kaggle.com/code/komalbatoolai/restaurant-tips-analysis" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+
 </p>
+
 
 ---
 
@@ -59,18 +61,12 @@ skills = {
   <img src="https://github-readme-streak-stats-one-jet.vercel.app/?user=codebyvimal&theme=github-dark-blue&hide_border=true" alt="Vimal's Streak" />
 </p>
 
----
 
-## 🎓 Philosophy
-
-> "Learning in public isn't just about sharing what you know—it's about documenting the journey, embracing mistakes, and building a community that grows together."
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=codebyvimal&color=2ea44f&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <p align="center">
-Stay Hungry, Stay Foolish
+ <strong>Stay Hungry, Stay Foolish</strong>
 </p>
