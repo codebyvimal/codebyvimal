@@ -56,12 +56,7 @@ skills = {
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyvimal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyvimal&theme=tokyonight&hide_border=true&v=1" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyvimal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codebyvimal&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
