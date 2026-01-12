@@ -12,7 +12,7 @@
 | Course | Progress | Status |
 | :--- | :--- | :--- |
 | **CS50: Python** | ![Progress](https://geps.dev/progress/60?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | 🏃‍♂️ **Week 6** |
-| **6-month ML** | ![Progress](https://geps.dev/progress/10?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) |  **Month 1** |
+| **6-month ML** | ![Progress](https://geps.dev/progress/11?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) |  **Month 1** |
 
 ### Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,git,github,bash)](https://skillicons.dev)
