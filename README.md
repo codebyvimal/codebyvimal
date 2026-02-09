@@ -21,7 +21,7 @@ I'm passionate about machine learning and artificial intelligence, documenting m
 skills = {
     "languages": ["Python"],
     "tools": ["Git", "GitHub"],
-    "focus": ["Machine Learning", "Data Science"],
+    "focus": ["Machine Learning", "Agentic AI"],
     "learning_style": "Public & Consistent"
 }
 ```
