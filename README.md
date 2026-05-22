@@ -10,7 +10,7 @@ I'm passionate about machine learning and artificial intelligence, documenting m
 
 | Course | Progress | Status |
 | :--- | :--- | :--- |
-| **CS50: Python** | ![Progress](https://geps.dev/progress/90?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | **Week 9** |
+| **CS50: Python** | ![Progress](https://geps.dev/progress/100?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | **DONE** |
 
 ---
 
