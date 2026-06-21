@@ -6,14 +6,6 @@ I'm passionate about machine learning and artificial intelligence, documenting m
 
 ---
 
-## 🎯 Current Learning Journey
-
-| Course | Progress | Status |
-| :--- | :--- | :--- |
-| **CS50: Python** | ![Progress](https://geps.dev/progress/100?dangerColor=2ea44f&warningColor=2ea44f&successColor=2ea44f) | **DONE** |
-
----
-
 ## 🛠️ Skills & Technologies
 
 ```python
