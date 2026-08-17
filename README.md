@@ -10,9 +10,9 @@ I'm passionate about machine learning and artificial intelligence, documenting m
 
 ```python
 skills = {
-    "languages": ["Python"],
+    "languages": ["Python","C","C++"],
     "tools": ["Git", "GitHub"],
-    "focus": ["Machine Learning", "Agentic AI"],
+    "focus": ["DSA", "Agentic AI"],
     "learning_style": "Public & Consistent"
 }
 ```
